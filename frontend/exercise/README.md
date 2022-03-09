@@ -1,5 +1,7 @@
 # Completed Test Assignment
 
+**Test Assignment Description** -> https://github.com/ark-key/internship/tree/frontend_internship/frontend
+
 ## Setup & Launch
 
 ### Clone the repo
